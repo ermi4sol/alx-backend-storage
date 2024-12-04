@@ -1,3 +1,4 @@
+-- Initial
 DELIMITER //
 
 CREATE FUNCTION SafeDiv(
