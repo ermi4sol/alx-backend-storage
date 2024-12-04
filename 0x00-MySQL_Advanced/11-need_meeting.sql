@@ -1,3 +1,4 @@
+-- Initial
 CREATE OR REPLACE VIEW need_meeting AS
 SELECT name
 FROM students
